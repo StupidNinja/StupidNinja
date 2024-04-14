@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Adilet Temirkhan**. I'm from Kazakh-British Technical University takins BS in Information Systems🏛️
+My name is **Adilet Temirkhan**. I'm from Kazakh-British Technical University taking BS in Information Systems🏛️
 
 I have huge interest in coding
 
